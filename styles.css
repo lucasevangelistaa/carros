@@ -1,0 +1,70 @@
+@charset "UTF-8";
+.imagem {
+  display: block;
+  margin: auto;
+}
+div#topo {
+  border-radius: 5px;
+  border: 1px solid blue;
+  width: 405px;
+  display: inline-block;
+  height: 68px;
+  padding: 1px;
+  background-color: #0A3872;
+}
+img#lupa {
+  display: inline-block;
+  margin-left: 370px;
+}
+img#inicio {
+  margin-top: 10px;
+}
+h1#inic {
+  border: 1px solid blue;
+  width: 15%;
+  color: white;
+  background-color: #0A3872;
+  font-size: 25px;
+}
+h1 {
+  font-size: 45px;
+}
+small {
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+p {
+  display: block;
+  font-family: Arial, Verdana, Sans-Serif;
+  font-size: 21px;
+  text-align: normal;
+}
+.list {
+  font-size: 20px;
+  color: #0A3872;
+}
+div {
+  background-color: white;
+  width: 400px;
+  padding: 10px;
+  margin: auto;
+}
+ul#itens {
+  font-size: 25px;
+}
+div#final {
+  display: block;
+  background-color: #0A3872;
+  width: 405px;
+  height: 200px;
+}
+.pf {
+  font-size: 13px;
+  text-align: center;
+  font-family: Arial, Verdana,  Sans-Serif;
+}
+.p {
+  font-size: 16px;
+  color: white;
+}
